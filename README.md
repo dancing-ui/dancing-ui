@@ -14,9 +14,6 @@ My name is X**u** F**e**n**g**<!-- the bold part is the origin of my ID -->. I'm
 - Sep 2024 - Present: University of Electronic Science and Technology of China(Master's degree), majored in Software Engineering.
 - Sep 2020 - Jun 2024: Xihua University(Bachelor's degree), majored in Information Security.
 
-## Internship Experience
-- Dec 2023 - Aug 2024: DJI Data Warehouses intership, Shenzhen, Guangdong
-
 ## Work Experience
 - Nothings.
 
